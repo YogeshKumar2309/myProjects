@@ -23,6 +23,7 @@ const App = () => {
         <Activities />
         <Contact />
       </Container>
+      {/* working the project branch */}
     </>
   );
 };
